@@ -30,7 +30,7 @@ run these commands to get them installed:
 cd ExampleAnalysis
 ./code/install_rbc.py \
     --qc-threshold complete-pass \
-    --tag 1.0 \
+    --release 1.0 \
     --bold-studies CCNP \
     --anat-studies CCNP
 ```
